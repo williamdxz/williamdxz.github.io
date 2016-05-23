@@ -5,7 +5,20 @@ p{
 div {
 	border-radius: 10px;
 	border: 2px solid #6495ed;
-	height: 50px;
+	height: 100px;
 	width: 120px;
-	margin: auto;
+	text-align: center;
+	font-family: Garamond;
+} 
+
+#b1 {
+	display: incline;
+	position: relative;
+	margin-left: 20px;
+} 
+
+#b2 {
+	display: incline;
+	position: relative;
+	margin-left: 50px;
 }
