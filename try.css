@@ -1,3 +1,11 @@
 p{
 	font-size: 30px;
 }
+
+div {
+	border-radius: 10px;
+	border: 2px solid #6495ed;
+	height: 25px;
+	width: 100px;
+	margin: auto;
+}
