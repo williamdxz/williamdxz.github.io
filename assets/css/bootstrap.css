@@ -341,6 +341,12 @@ img {
   max-width: 100%;
 }
 
+.profile {
+  display: block;
+  height: 200px;
+  width: auto;
+}
+
 .img-rounded {
   border-radius: 6px;
 }
